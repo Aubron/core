@@ -1,0 +1,17 @@
+{
+  "domain": "catt",
+  "name": "Cast All The Things",
+  "config_flow": true,
+  "documentation": "https://www.home-assistant.io/integrations/catt",
+  "requirements": [
+    "catt==0.12.1"
+  ],
+  "ssdp": [],
+  "zeroconf": [],
+  "homekit": {},
+  "dependencies": [],
+  "codeowners": [
+    "@aubron"
+  ],
+  "iot_class": "local_polling"
+}

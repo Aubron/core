@@ -246,6 +246,9 @@ buienradar==1.0.4
 # homeassistant.components.caldav
 caldav==0.7.1
 
+# homeassistant.components.catt
+catt==0.12.1
+
 # homeassistant.scripts.check_config
 colorlog==5.0.1
 

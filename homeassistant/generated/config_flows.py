@@ -42,6 +42,7 @@ FLOWS = [
     "buienradar",
     "canary",
     "cast",
+    "catt",
     "cert_expiry",
     "climacell",
     "cloudflare",
